@@ -1,4 +1,4 @@
-## [Join the Discord!](https://discord.gg/yq49we2nqm)
+## Welcome to Vitae!
 
 # NEWS:
 ## From @jhinks#2709
