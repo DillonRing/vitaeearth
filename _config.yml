@@ -1,1 +1,41 @@
-theme: jekyll-theme-cayman
+title: Welcome to the official Vitae Website
+description: We'll post news, events, and much more here.
+social_link: instagram
+social_username: example
+github_repo: vitaeearth
+github_username: DillonRing
+theme_color: black
+remote_theme: internet-de-france/swiss
+baseurl: /vitaeearth
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
+    values:
+      categories: ''
+remote_theme_layouts:
+  - ''
+  - default
+  - page
+  - post
+  - home
+  - category_index
+social_links:
+  - twitter
+  - instagram
+  - medium
+  - dribbble
+theme_colors:
+  - black
+  - blue
+  - gray
+  - magenta
+  - orange
+  - red
+  - white
+  - yellow
