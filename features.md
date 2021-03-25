@@ -1,4 +1,4 @@
-# FEATURES
+# Features
 
 ## Towny,   
 ## TPA Commands,   
