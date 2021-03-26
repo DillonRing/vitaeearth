@@ -1,5 +1,6 @@
 # Staff
 ## Jhinks   
+![4c2927bc9fb14b1f6ed038a7402a9a1a](https://user-images.githubusercontent.com/67810247/112647746-d4782380-8e16-11eb-8acb-330b7d036546.png)
 ## Toastmaster   
 ![82c1c12bf105e5a21dded9de2c5a9533](https://user-images.githubusercontent.com/67810247/112646893-f2915400-8e15-11eb-92d0-7d32c97b8419.png)  
 ## Ice   
