@@ -9,8 +9,7 @@
 ![b05849f7258d99e8dc37a8f34fa91a70](https://user-images.githubusercontent.com/67810247/112646590-a9d99b00-8e15-11eb-8b56-1daf678b4f05.png) 
 ## Soggy   
 ![0dc0fce0463ad80604762e74b2118bc7](https://user-images.githubusercontent.com/67810247/112647177-3be1a380-8e16-11eb-9cec-6efa07282463.png)   
-## Pogger   
-![profile](https://user-images.githubusercontent.com/67810247/113026686-f3e0ba80-914e-11eb-9f9e-ef56f6bf9e82.png)   
+
 
 
 
