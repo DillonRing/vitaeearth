@@ -2,7 +2,7 @@
 ### [Join the Discord!](https://discord.gg/yq49we2nqm)
 # NEWS:
 ## From @jhinks#2709
-the server is back up! Please update your server settings with the ip: (join discord for the IP) , and port ****. Note i believe that java players still need to add the port after a colon, bedrock players can put it in the box. The server also has undergone a trade update (update 1.3), including: safetrade, chestshops, auction house (/ah), mcMMO, and cosmetics for discord server boosters. Thank you for your patience through this process and once again, and inquiries or questions please open a ticket.
+in about 5 days time (rough estimate) the server info will change, this is because of a hardware change which should fix the bedrock dcing problem. I will change the server MOTD to alert players outside of the discord but if you know anyone who isn’t here be sure to alert them. This is your warning for it
     - Jhinks
 
 # LINKS
