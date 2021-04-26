@@ -8,7 +8,7 @@
 ## Trimaz - Admin    
 ![b05849f7258d99e8dc37a8f34fa91a70](https://user-images.githubusercontent.com/67810247/112646590-a9d99b00-8e15-11eb-8b56-1daf678b4f05.png) 
 ## Dillon - Moderator, Website Designer   
-![dillon](https://media.discordapp.net/attachments/818867659004444713/836331025457217556/1200px-ToddHoward2010sm_cropped.jpg)   
+![dillon](https://media.discordapp.net/attachments/818867659004444713/836331448440324136/1200px-ToddHoward2010sm_cropped.jpg)   
 ## Mauren - Moderator   
 ![mauren](https://cdn.discordapp.com/avatars/506938476290375680/51d462eddebad33b2cb7fafe754891e3.png)   
 ## Soggy - Helper, Marketing   
